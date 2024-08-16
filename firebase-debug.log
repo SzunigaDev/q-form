@@ -1,0 +1,21 @@
+[debug] [2024-08-16T04:15:03.050Z] ----------------------------------------------------------------------
+[debug] [2024-08-16T04:15:03.053Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\placeholder\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-08-16T04:15:03.053Z] CLI Version:   13.15.2
+[debug] [2024-08-16T04:15:03.054Z] Platform:      win32
+[debug] [2024-08-16T04:15:03.054Z] Node Version:  v20.12.2
+[debug] [2024-08-16T04:15:03.054Z] Time:          Thu Aug 15 2024 22:15:03 GMT-0600 (Mountain Daylight Time)
+[debug] [2024-08-16T04:15:03.054Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-16T04:15:03.060Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-16T04:15:03.061Z] > authorizing via signed-in user (089szuniga@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\placeholder\Documents\SERSH-APPS\form\q-form
+
