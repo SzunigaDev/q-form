@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "szuniga-form-test",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
